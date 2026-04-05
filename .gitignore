@@ -1,0 +1,38 @@
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+!default.xcworkspace
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# CocoaPods
+Pods/
+!Podfile.lock
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Carthage
+Carthage/Build/
+
+# Keychain & Secrets
+*.p12
+*.cer
+*.mobileprovision
+
+# Claude worktrees
+.claude/
+
+# Reports (optional - remove if you want to include)
+# AITracker_Inceleme_Raporu.md
