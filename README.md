@@ -45,7 +45,7 @@ AITracker/
 
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/KULLANICI_ADINIZ/AITracker.git
+   git clone https://github.com/nexivon/AITracker.git
    ```
 2. Xcode ile `AITracker.xcodeproj` dosyasını açın.
 3. Ayarlar sayfasından Gemini API anahtarınızı girin.
