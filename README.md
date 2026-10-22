@@ -1,5 +1,9 @@
 # AITracker
 
+> A SwiftUI news reader featuring Gemini-powered article summaries, multilingual output and text-to-speech.
+
+**Stack:** SwiftUI · Google Gemini API · AVFoundation · Keychain · MVVM
+
 AI destekli haber takip ve özetleme uygulaması. Haberleri otomatik olarak çeker, Google Gemini API ile özetler ve sesli okuma özelliği sunar.
 
 ## Özellikler
